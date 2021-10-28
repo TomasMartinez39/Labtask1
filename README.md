@@ -1,3 +1,4 @@
 # Labtask1
-IBM Course
-testrepo
+testrepo/firstpython.py
+# Display the output
+print ( "New Python file")
